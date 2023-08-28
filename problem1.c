@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// find the total of all of the multiples of 3 or 5 ;ess than 1000
 
 int findMult3Or5(){
 	int i = 0;
