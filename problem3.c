@@ -1,5 +1,5 @@
 #include <stdio.h>
-// find the larges prime factor of a given number 
+// find the largest prime factor of a given number 
 long largesPrimeFactor(long num){
 	long prime = -1;
 
